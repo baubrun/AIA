@@ -1,0 +1,28 @@
+
+body {
+    background-color: beige;
+
+}
+
+.collaborate-img{
+    background-size: cover ;
+    background-repeat: no-repeat content-box;
+    width: 100%;
+}
+
+.jumbotron-fluid {
+    background-color: #1A1A1A;
+}
+
+.bg-dark {
+    background-color: #1A1A1A !important;
+}
+
+a {
+    color:  #CFE8BB !important;
+} 
+
+
+header {
+    background-color: #CFE8BB;
+}
